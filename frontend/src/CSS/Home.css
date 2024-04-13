@@ -1,0 +1,27 @@
+.home {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right, #01411c, #0091509a);
+    
+   
+  }
+
+  .typo{
+    color: antiquewhite;
+    font-family: Georgia, serif;
+    
+    
+  }
+  
+  .typo1{
+    color:antiquewhite ;
+    font-family: system-ui;
+    
+    
+  }
+
+  
+  

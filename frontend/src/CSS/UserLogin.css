@@ -1,0 +1,56 @@
+.login {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right, #01411cb9, #0091509a, white);
+
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+}
+
+
+/* #outlined-basic {
+    flex: 1;
+    padding: 20px;
+    
+} */
+
+/* Style your form inputs and buttons here */
+#outlined-basic{
+    display: flex;
+    flex-direction: column;
+}
+
+.input{
+    
+    margin-left: 200px;
+    margin-right: 5%;
+    width: 40%;
+   border: 1px solid #01411c;
+   background-color: #01411c36;
+   width: 100%;
+   
+  
+   
+}
+
+.typography{
+    margin-left: 10px;
+    font-family: Georgia, serif;
+    /* margin-top: 0px; */
+}
+
+.typography p{
+    text-align:left;
+    margin-left: 11px;
+    margin-left: 20px;
+}
+
+.btnlog{
+    background-color: #01411c;
+}
